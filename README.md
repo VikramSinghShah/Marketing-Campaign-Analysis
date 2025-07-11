@@ -8,8 +8,8 @@ To analyze marketing campaign data from 2,240 customers in order to uncover beha
 -----------------------------------------------------------------------------------------------------------
 ## 📊 Dashboard Snapshot:
 <p align="center">
-  <img src="./DASHBOARD SS/Dashboard Customer churn.png" width="700" alt="Summary Dashboard">
-  <br><i> Customer Churn Dashboard </i>
+  <img src="./DASHBOARD SS/Marketing Dashboard Photo.png" width="700" alt="Summary Dashboard">
+  <br><i> Marketing Dashboard </i>
 </p>
 
 -----------------------------------------------------------------------------------------
