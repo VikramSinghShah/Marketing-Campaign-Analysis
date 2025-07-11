@@ -6,6 +6,13 @@
 To analyze marketing campaign data from 2,240 customers in order to uncover behavioral patterns, evaluate campaign effectiveness, identify product preferences, and recommend improvements to underperforming sales channels.
 
 -----------------------------------------------------------------------------------------------------------
+## 📊 Dashboard Snapshot:
+<p align="center">
+  <img src="./DASHBOARD SS/Dashboard Customer churn.png" width="700" alt="Summary Dashboard">
+  <br><i> Customer Churn Dashboard </i>
+</p>
+
+-----------------------------------------------------------------------------------------
 **📁 Dataset:**
 
 **Source:** Marketing Campaign Results.xlsx
